@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/salin/OneDrive/Escritorio/Aplicaciones Moviles/DoodlzApp/app/src/main/res/layout/activity_login.xml" value="0.259375" />
         <entry key="..\:/Users/salin/OneDrive/Escritorio/Aplicaciones Moviles/DoodlzApp/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/salin/OneDrive/Escritorio/Aplicaciones Moviles/DoodlzApp/app/src/main/res/layout/fragment_color.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/salin/OneDrive/Escritorio/Aplicaciones Moviles/DoodlzApp/app/src/main/res/layout/fragment_main.xml" value="0.2572463768115942" />
       </map>
     </option>
   </component>
